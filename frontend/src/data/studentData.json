@@ -1,0 +1,52 @@
+{
+  "S160196": {
+    "name": "Appala Naidu Gadu",
+    "email": "s160196@rguktsklm.ac.in",
+    "id": "S160196",
+    "pass": "PQR96",
+    "longitude": "83.218483",
+    "latitude": "17.686815",
+    "campus": "Srikakulam",
+    "branch": "CSE",
+    "batch": "2016",
+    "bio": "Yet another developer!",
+    "github": "",
+    "linkedin": "",
+    "twitter": "",
+    "portfolio": "",
+    "profile": "S160196"
+  },
+  "S160589": {
+    "name": "Dinesh Pidugu",
+    "email": "dinesh@gmail.com",
+    "id": "S160589",
+    "pass": "",
+    "longitude": 82.218483,
+    "latitude": 16.686815,
+    "campus": "Srikakulam",
+    "branch": "CSE",
+    "batch": 2020,
+    "bio": "Do cool things, that matter!",
+    "github": "https://www.linkedin.com/",
+    "linkedin": "https://www.linkedin.com/",
+    "portfolio": "https://www.linkedin.com/",
+    "profile": "2"
+  },
+  "S161000": {
+    "name": "PVBG Sharma",
+    "email": "vijay@gmail.com",
+    "id": "S161000",
+    "pass": "3",
+    "longitude": 83.68483,
+    "latitude": 18.286815,
+    "campus": "Nuzvid",
+    "branch": "ECE",
+    "batch": 2019,
+    "bio": "A curious guy who loves to learn!",
+    "github": "https://www.linkedin.com/",
+    "linkedin": "https://www.linkedin.com/",
+    "twitter": "https://www.linkedin.com/",
+    "portfolio": "https://www.linkedin.com/",
+    "profile": "3"
+  }
+}
