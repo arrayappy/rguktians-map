@@ -1,7 +1,7 @@
 import React from "react";
 import {Jumbotron, Button} from "reactstrap";
 
-const jumbotron = () => {
+const JumbotronBanner = () => {
 	return (
 		<div>
 			<Jumbotron className="dark-jmode" >
@@ -25,4 +25,4 @@ const jumbotron = () => {
 	);
 };
 
-export default jumbotron;
+export default JumbotronBanner;

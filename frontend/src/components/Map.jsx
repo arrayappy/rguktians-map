@@ -3,9 +3,9 @@ import Grid from "@material-ui/core/Grid";
 
 //components
 import data from "../data/studentData";
-import Rguktians from "./rguktians";
+import Rguktians from "./Rguktians";
 
-class map extends Component {
+class Map extends Component {
 	constructor(props) {
 		super(props);
 
@@ -176,4 +176,4 @@ class map extends Component {
 	}
 }
 
-export default map;
+export default Map;

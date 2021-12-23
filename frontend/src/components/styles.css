@@ -1,15 +1,15 @@
-div,
-input,
-button,
-select,
-label{
+div, input, button, select, label{
   font-size: 16px;
   font-family: sans-serif;
 }
-input,
-button {
+
+input, button {
   padding: 0.02rem;
-} 
+}
+
+h1,h2,h3,h4,h5,h6,label {
+  font-weight: bold;
+}
 
 select{
   padding: 0.25rem;
@@ -21,10 +21,6 @@ select{
   display: flex;
   font-weight: 400;
   font-family: 'Fira Sans', sans-serif;
-}
-
-h1,h2,h3,h4,h5,h6,label {
-  font-weight: bold;
 }
 
 .auth-wrapper {
@@ -60,41 +56,3 @@ h1,h2,h3,h4,h5,h6,label {
   cursor: pointer;
   text-align: center;
 }
-/* .homebutton {
-  display: block;
-  width: 20%;
-  border-radius: .5em;
-  background-color: #1769aa;
-  padding: 7px;
-  font-size: 16px;
-  cursor: pointer;
-  text-align: center;
-} */
-
-
-/* label {
-  width:400px;
-  clear:left;
-  text-align:left;
-  padding-right:10px;
-  font-weight: 600;
-} */
-/* select{
-  padding: 0.08rem;
-} */
-/* form {
-  border: 2px solid black;
-  border-radius: .5em;
-  margin-bottom: 1em;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 5px;
-  padding: 1em;
-  text-align: justify;
-  width: 400px;
-  background: #ecf0f3;
-  box-shadow: 14px 14px 20px, white, 14px 14px 20px white;
-} */
-/* .bio{
-  width:"300px"
-} */

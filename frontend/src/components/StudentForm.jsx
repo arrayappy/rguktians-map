@@ -3,7 +3,7 @@ import "./styles.css";
 import users from '../data/userData.json';
 const axios = require("axios");
 
-class studentForm extends React.Component {
+class StudentForm extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -233,4 +233,4 @@ class studentForm extends React.Component {
   }
 }
 
-export default studentForm;
+export default StudentForm;

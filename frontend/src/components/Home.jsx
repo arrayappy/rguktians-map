@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 import Grid from "@material-ui/core/Grid";
 //Components
-import Map from "./map";
-import Jumbotron from "./jumbotron";
+import Map from "./Map";
+import Jumbotron from "./JumbotronBanner";
 import Button from 'react-bootstrap/Button';
-class home extends Component {
+class Home extends Component {
 	clickMe(e) {
 		e.preventDefault()
 		//console.log(document.getElementsByTagName('jumbotron').style)
@@ -62,4 +62,4 @@ class home extends Component {
 	}
 }
 
-export default home;
+export default Home;

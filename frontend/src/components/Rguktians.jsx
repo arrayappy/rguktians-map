@@ -7,7 +7,7 @@ import TwitterIcon from '@material-ui/icons/Twitter'
 import LinkIcon from '@material-ui/icons/Link'
 import Grid from '@material-ui/core/Grid'
 
-class rguktians extends Component {
+class Rguktians extends Component {
 
     render() {
         var studentsearch = this.props.data
@@ -115,4 +115,4 @@ class rguktians extends Component {
     }
 }
 
-export default rguktians
+export default Rguktians
